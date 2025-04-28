@@ -1,5 +1,4 @@
-# UTS-KecerdasanBuatan
-# Sistem Pakar Diagnosa Penyakit Tanaman dan Review Jurnal/Artikel AI
+# UTS-KecerdasanBuatan || Sistem Pakar Diagnosa Penyakit Tanaman dan Review Jurnal/Artikel AI
 
 ## Soal 1. Sistem Pakar Diagnosa Penyakit Tanaman
 
@@ -61,18 +60,6 @@ Penelitian ini bertujuan untuk mengeksplorasi penerapan Kecerdasan Buatan dalam 
 ### Ide Pengembangan Lanjutan
 Mengembangkan **Generative AI** untuk menciptakan konten baru secara otomatis, meningkatkan pengalaman pengguna dan mempermudah pembuatan deskripsi produk, desain baru, dan materi promosi.
 
-#### Penggunaan AI Generatif
-1. **Deskripsi Produk**: Membuat deskripsi produk otomatis dan SEO-friendly.
-2. **Chatbot Pintar**: Membuat chatbot dengan komunikasi yang alami dan personal.
-3. **Email Marketing**: Menghasilkan email promosi otomatis.
-4. **Rekomendasi Produk**: Menyusun rekomendasi produk berbasis kebiasaan belanja pelanggan.
-5. **Konten Visual**: Menghasilkan gambar produk dan desain promosi secara otomatis.
-
-#### Tantangan AI Generatif
-- **Kualitas Konten**: Konten AI terkadang tidak akurat atau terlalu umum.
-- **Etika dan Transparansi**: Harus jelas bahwa konten dibuat oleh AI agar tidak menipu konsumen.
-- **Data Bias**: Data pelatihan yang tidak lengkap dapat mempengaruhi kualitas rekomendasi.
-- **Hak Cipta**: Konten AI perlu diperiksa hak cipta sebelum digunakan.
 
 ### Aplikasi Serupa yang Dapat Dikembangkan di Lingkungan Garut
 #### Nama Aplikasi
